@@ -1,0 +1,5 @@
+{
+  "name": "modernizr",
+  "description": "Custom Modernizr build as a component",
+  "scripts": ["index.js"]
+}
